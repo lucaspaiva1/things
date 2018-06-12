@@ -6,3 +6,5 @@
 | Chuteira      |  03/10 | Francisco  | R$   45,00 |
 | Terno         |  02/06 | Francisco  | R$   69,00 |
 | Cadeira/ Mesa |  0X/10 | Francisco  | R$   61,00 |
+| Lanche Champ. |  01/01 | Francisco  | R$   22,00 |
+| Chocolate Yl. |  0X/10 | Francisco  | R$   36,00 |
