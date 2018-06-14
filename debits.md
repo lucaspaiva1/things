@@ -9,3 +9,4 @@
 | Lanche Champ. |  01/01 | Francisco  | R$   22,00 |
 | Chocolate Yl. |  01/01 | Francisco  | R$   36,00 |
 | Camisa Brasil |  01/01 | Francisco  | R$   50,00 |
+| Bicicleta     |  01/01 | Francisco  | R$   65,00 |
