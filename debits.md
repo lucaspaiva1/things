@@ -10,3 +10,6 @@
 | Chocolate Yl. |  01/01 | Francisco  | R$   36,00 |
 | Camisa Brasil |  01/01 | Francisco  | R$   50,00 |
 | Bicicleta     |  01/01 | Francisco  | R$   65,00 |
+| cart. mem.    |  01/01 | Francisco  | R$   55,00 |
+| suporte tv    |  01/01 | Francisco  | R$   20,00 |
+| estacionamen. |  01/01 | Francisco  | R$    5,00 |
