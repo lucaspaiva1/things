@@ -13,3 +13,4 @@
 | cart. mem.    |  01/01 | Francisco  | R$   55,00 |
 | suporte tv    |  01/01 | Francisco  | R$   20,00 |
 | estacionamen. |  01/01 | Francisco  | R$    5,00 |
+| pizza         |  01/01 | Francisco  | R$   10,00 |
